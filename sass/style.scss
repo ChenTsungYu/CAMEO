@@ -1,0 +1,20 @@
+.jumbotron{
+    background: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    // 頁面不隨圖像滾動
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+section{
+    padding-top: 4rem;
+}
+#section-newsletter{
+    padding-top: 0;
+}
+body{
+    font-family: 'Open Sans' , sans-serif
+}
+h1,h2,h3,h4{
+    font-family: 'Rubik' ,sans-serif;
+}
